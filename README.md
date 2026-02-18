@@ -1,4 +1,4 @@
-# TerraformAnsibleSpike
+# Terraform Cloud Run Tasks + Ansible Integration
 Terraform Cloud Run Tasks with Basic Ansible Integration
 
 The goal of this work is to explore how we can extend Terraform workflows beyond pure infrastructure provisioning and integrate them with our automation ecosystem — particularly Ansible — in a controlled and reusable way.
